@@ -1,0 +1,101 @@
+TransactionID,Amount,TransactionType,Location,Time,AccountAge,IsInternational,IsHighRiskCountry,PreviousFraudHistory,FraudDetected
+1,3751.66,ATM,CityA,Night,191,0,1,0,1
+2,9507.64,Wire Transfer,CityA,Night,2301,0,0,0,1
+3,7322.62,ATM,CityC,Evening,981,1,1,0,1
+4,5990.6,Online,CityB,Morning,2976,0,1,1,1
+5,1568.63,Wire Transfer,CityB,Night,2007,0,1,0,1
+6,1568.39,Online,CityA,Night,1185,1,1,0,0
+7,590.26,Wire Transfer,CityD,Afternoon,3328,1,0,1,0
+8,8663.1,Wire Transfer,CityB,Night,3395,0,1,1,0
+9,6015.14,POS,CityD,Night,128,1,0,0,0
+10,7083.65,Online,CityB,Afternoon,2066,0,0,1,0
+11,215.64,ATM,CityD,Evening,1817,1,0,1,0
+12,9699.4,ATM,CityC,Night,1759,0,0,0,0
+13,8326.1,Online,CityD,Afternoon,2614,1,0,1,1
+14,2131.27,ATM,CityC,Morning,570,0,0,0,1
+15,1826.43,ATM,CityC,Evening,1347,0,1,1,0
+16,1842.21,Online,CityD,Morning,1896,0,0,0,0
+17,3049.38,Wire Transfer,CityC,Morning,2734,1,0,0,1
+18,5252.32,Online,CityA,Afternoon,626,0,0,0,0
+19,4325.13,Wire Transfer,CityC,Night,3360,0,1,1,0
+20,2919.38,ATM,CityB,Afternoon,2902,1,1,0,1
+21,6122.41,ATM,CityD,Afternoon,1687,1,0,1,0
+22,1403.54,ATM,CityA,Afternoon,3010,0,1,0,1
+23,2928.53,POS,CityD,Afternoon,155,0,0,0,0
+24,3669.95,Wire Transfer,CityB,Evening,2538,1,0,1,1
+25,4566.14,POS,CityB,Night,1410,1,1,0,1
+26,7853.91,POS,CityB,Morning,785,1,0,0,1
+27,2004.74,Online,CityC,Morning,3176,1,1,1,0
+28,5147.2,POS,CityC,Night,3465,1,1,0,1
+29,5928.22,Online,CityD,Morning,246,0,0,0,0
+30,474.04,Online,CityD,Night,3248,1,0,0,0
+31,6079.37,POS,CityA,Morning,3111,0,1,0,0
+32,1713.54,Wire Transfer,CityA,Afternoon,1501,0,0,1,0
+33,659.87,Wire Transfer,CityD,Morning,1706,0,0,1,1
+34,9489.37,Wire Transfer,CityC,Night,2807,1,0,0,1
+35,9656.66,Wire Transfer,CityB,Night,538,0,1,1,0
+36,8085.89,Wire Transfer,CityD,Night,1891,0,1,0,0
+37,3053.09,POS,CityA,Night,1842,1,0,1,1
+38,985.74,POS,CityC,Night,921,0,1,0,0
+39,6845.49,ATM,CityD,Evening,2456,0,1,0,1
+40,4407.12,Wire Transfer,CityD,Evening,525,1,1,0,0
+41,1229.16,POS,CityC,Morning,2876,0,1,0,0
+42,4956.82,ATM,CityD,Night,1530,0,1,0,1
+43,353.54,Wire Transfer,CityC,Morning,2951,0,0,0,0
+44,9094.11,Online,CityB,Night,36,1,0,1,1
+45,2595.21,ATM,CityC,Night,685,1,0,0,0
+46,6628.6,POS,CityC,Evening,20,1,1,1,0
+47,3123.99,Online,CityC,Evening,2369,0,1,0,0
+48,5205.48,Online,CityD,Afternoon,2560,0,0,1,1
+49,5471.64,Online,CityD,Evening,400,1,1,1,0
+50,1856.7,ATM,CityC,Afternoon,2702,0,0,1,0
+51,9696.15,POS,CityD,Afternoon,972,0,0,0,0
+52,7753.58,Online,CityA,Afternoon,1907,1,0,0,0
+53,9395.59,Wire Transfer,CityA,Afternoon,2519,1,1,1,1
+54,8949.33,Online,CityD,Afternoon,1167,0,1,0,1
+55,5983.02,Online,CityD,Morning,1116,0,0,1,0
+56,9219.52,ATM,CityC,Evening,3426,0,0,0,1
+57,894.04,ATM,CityB,Afternoon,834,1,0,1,0
+58,1967.87,POS,CityD,Night,1824,1,0,1,0
+59,461.82,Wire Transfer,CityA,Evening,2775,1,1,0,0
+60,3260.05,ATM,CityC,Evening,1983,1,1,1,1
+61,3892.89,Online,CityD,Afternoon,854,0,0,0,1
+62,2720.78,POS,CityA,Morning,51,1,0,1,1
+63,8289.09,Online,CityA,Afternoon,575,1,1,1,1
+64,3573.97,Online,CityB,Morning,3262,1,1,0,1
+65,2816.54,ATM,CityC,Night,1149,1,0,0,1
+66,5431.53,POS,CityC,Evening,2198,1,0,0,1
+67,1417.83,Wire Transfer,CityB,Night,2362,0,0,1,1
+68,8023.95,Wire Transfer,CityB,Morning,2618,0,1,0,1
+69,754.76,ATM,CityC,Morning,3414,1,1,1,0
+70,9869.0,ATM,CityC,Night,2353,0,1,1,1
+71,7724.73,POS,CityD,Morning,1716,1,0,0,1
+72,1995.17,Wire Transfer,CityD,Night,682,1,0,0,1
+73,65.17,Wire Transfer,CityB,Evening,838,0,1,1,1
+74,8156.46,Wire Transfer,CityD,Night,1078,0,1,1,1
+75,7071.5,Online,CityA,Evening,3051,1,0,0,1
+76,7292.78,Wire Transfer,CityD,Night,2492,1,1,0,1
+77,7714.99,Online,CityD,Morning,2661,1,1,0,1
+78,749.71,POS,CityA,Night,3041,0,0,0,1
+79,3591.07,Online,CityB,Morning,2312,1,1,0,1
+80,1167.53,POS,CityA,Night,3125,1,0,1,1
+81,8632.4,Wire Transfer,CityD,Night,1596,1,0,1,0
+82,6236.75,Wire Transfer,CityB,Afternoon,3052,0,0,1,0
+83,3315.67,POS,CityD,Morning,5,1,0,1,1
+84,644.95,ATM,CityA,Afternoon,1127,1,0,0,1
+85,3116.71,POS,CityA,Morning,1220,0,0,0,0
+86,3258.58,ATM,CityD,Afternoon,774,1,0,0,1
+87,7298.77,Online,CityC,Evening,877,1,1,1,0
+88,6379.2,Online,CityC,Night,992,0,0,1,0
+89,8873.26,Online,CityA,Morning,2932,1,0,0,0
+90,4727.43,Wire Transfer,CityA,Morning,3422,0,1,0,0
+91,1204.75,Online,CityC,Night,47,0,1,1,0
+92,7135.32,ATM,CityC,Morning,2915,1,1,1,1
+93,7610.24,Online,CityD,Morning,2871,1,0,0,0
+94,5617.16,POS,CityD,Afternoon,2984,1,1,0,1
+95,7711.96,POS,CityC,Morning,2704,1,0,1,1
+96,4943.02,Wire Transfer,CityD,Evening,269,0,0,0,0
+97,5232.1,POS,CityD,Evening,370,1,0,0,0
+98,4281.13,ATM,CityB,Night,636,0,0,0,1
+99,263.94,Online,CityD,Morning,1130,1,1,1,0
+100,1087.84,Wire Transfer,CityA,Night,1694,1,1,1,0
